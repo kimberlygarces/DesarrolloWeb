@@ -1,0 +1,86 @@
+
+
+#cabecera{
+
+  background-color:#68BDF5;
+  height:auto;
+  padding: 30px;
+
+}
+
+
+#izquierda{
+    float:left;
+    overflow: hidden;
+    width:19.7%;
+    height:auto;
+
+}
+
+.caja2A {
+  -webkit-column-count: 3;
+  -moz-column-count: 3;
+  column-count: 3;
+  -webkit-column-gap: 40px;
+  -moz-column-gap: 40px; 
+  column-gap: 40px;
+}
+
+#derecha{
+
+background-color:#DAF7E2;
+  float: right;
+  overflow: hidden;
+  width:79%;
+  border-style: solid double;
+
+
+}
+
+#caja1{
+
+  padding: 10px, 10px;
+  overflow: hidden;
+}
+
+#caja2{
+
+
+  padding: 20px, 10px;
+  overflow: hidden;
+}
+
+
+
+#caja3{
+  padding: 10px, 10;
+  overflow: hidden;
+
+}
+
+#caja3A{
+    float:left;
+    overflow: hidden;
+    width:49.4%;
+    border-style: solid double;
+}
+
+#caja3B{
+
+
+  float: right;
+  overflow: hidden;
+  width:49.4%;
+  border-style: solid double;
+
+
+}
+
+.caja3B1 {
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+  column-count: 2;
+  -webkit-column-gap: 40px;
+  -moz-column-gap: 40px;
+  column-gap: 40px;
+}

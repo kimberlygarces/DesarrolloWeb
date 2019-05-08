@@ -1,0 +1,111 @@
+
+
+#cabecera{
+
+  background-color:#68BDF5;
+  height:auto;
+  padding: 30px;
+
+}
+
+
+#izquierda{
+    height:100%;
+    background-color:#68BDF5;
+    float:left;
+    overflow: hidden;
+    width:70%;
+
+}
+
+#derecha{
+
+  height:100%;
+  background-color:#85C1E9;
+  float: right;
+  overflow: hidden;
+  width:30%;
+
+}
+
+
+#caja1b{
+  border-style: solid double;
+  background-color:#DAF7E2;
+    height:51%;
+    overflow: hidden;
+}
+
+#caja2b{
+border-style: solid double;
+  background-color:#DAF7E2;
+  height:51%;
+  overflow: hidden;
+}
+
+#caja1I{
+
+  background-color:#DAF7E2;
+  height:33.2%;
+  padding: 10px, 10px;
+  overflow: hidden;
+}
+
+#caja2I{
+
+  background-color:#DAF7E2;
+  height:33.2%;
+  padding: 20px, 10px;
+  overflow: hidden;
+}
+#caja3I{
+
+  background-color:#DAF7E2;
+  height:33.2%;
+  padding: 10px, 10;
+  overflow: hidden;
+}
+
+#pie{
+
+padding: 10px;
+overflow: hidden;
+list-style-type: none;
+background-color:  #2e86c1;
+}
+
+#caja3{
+float: left;
+padding: 2px;
+color: #fff;
+width: 200px;
+margin: 50px;
+background: #039;
+}
+
+#caja4{
+  float: left;;
+  padding: 2px;
+  color: #fff;
+  width: 200px;
+  margin: 50px;
+  background: #039;
+}
+
+#caja5{
+  float: left;;
+padding: 2px;
+color: #fff;
+width: 200px;
+margin: 50px;
+background: #039;
+}
+
+#caja6{
+  float: left;;
+  padding: 2px;
+  color: #fff;
+  width: 200px;
+  margin: 50px;
+  background: #039;
+}

@@ -1,0 +1,73 @@
+
+
+#cabecera{
+
+  background-color:#68BDF5;
+  height:auto;
+  padding: 30px;
+
+}
+#contenedor{
+  border-style: solid double;
+    overflow: hidden;
+
+
+}
+
+#izquierda{
+
+    float:right;
+    overflow: hidden;
+    width:19%;
+
+
+}
+
+#derecha{
+
+  float: left;
+  overflow: hidden;
+  width:19%;
+
+
+}
+#centro{
+  float: left;
+  overflow: hidden;
+  width:60%;
+  border-style: solid double;
+  background-color:rgb(156, 210, 247);
+  opacity:0.6;
+  color: #17202a;
+
+}
+
+.imgRedonda {
+    width:200px;
+    height:200px;
+    border-radius:150px;
+
+}
+
+table.d {
+  table-layout: fixed;
+  width: 100%;
+  border-style: solid double;
+  border: 1px solid black;
+  color: #17202a;
+
+}
+th,td {
+  border: 1px solid black;
+}
+
+
+
+
+#pie{
+
+padding: 10px;
+overflow: hidden;
+list-style-type: none;
+background-color:  #2e86c1;
+}

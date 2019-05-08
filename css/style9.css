@@ -1,0 +1,94 @@
+
+.imgRedonda {
+    width:200px;
+    height:200px;
+    border-radius:150px;
+
+}
+
+.Usuario {
+    width:200px;
+    height:200px;
+    border-radius:150px;
+
+}
+
+#cabecera{
+
+  background-color:#68BDF5;
+  height:auto;
+  padding: 30px;
+
+}
+
+
+#izquierda{
+    height:100%;
+    float:left;
+    overflow: hidden;
+    width:80%;
+    text-align: center;
+    padding-left:5px;
+
+}
+
+#caja2A{
+float: left;
+padding: 5px;
+width: 630px;
+margin: 50px;
+background: #039;
+  text-align: center;
+  background-color:#68BDF5;
+  border-radius: 500px 500px 100px 100px;
+
+}
+
+
+
+table.d {
+  table-layout: fixed;
+  border-style: solid double;
+  border: 1px solid black;
+  color: #17202a;
+  margin: 50px;
+  width: 530px;
+  text-align: center;;
+
+
+
+}
+th,td {
+  border: 1px solid black;
+}
+
+
+#derecha{
+
+  height:100%;
+  border-style: solid double;
+  float: right;
+  overflow: hidden;
+  width:19%;
+
+
+}
+
+#caja1A{
+float: left;
+padding: 5px;
+color: #fff;
+width: 330px;
+margin: 50px;
+background: #039;
+  text-align: center;
+}
+
+
+#pie{
+
+padding: 10px;
+overflow: hidden;
+list-style-type: none;
+background-color:  #2e86c1;
+}
