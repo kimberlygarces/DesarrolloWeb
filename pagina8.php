@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8"/>
-<title>Lenguajes de programación</title>
+<title>Redes Sociales</title>
 <link rel="stylesheet" type="text/css" href="css/style8.css">
 <style>
 

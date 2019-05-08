@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8"/>
-<title>Lenguajes de programación</title>
+<title>Ingenieria de Sistemas</title>
 <link rel="stylesheet" type="text/css" href="css/style7.css">
 <style>
 

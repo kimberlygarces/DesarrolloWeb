@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8"/>
-<title>Título de la página</title>
+<title>Peliculas</title>
 <link rel="stylesheet" type="text/css" href="css/style4.css">
 <style>
 
