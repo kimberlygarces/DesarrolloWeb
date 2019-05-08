@@ -2,7 +2,10 @@
 <html>
 <head>
 <meta charset="utf-8"/>
+<meta name="HTML Y CSS" content="Desarrollo web algo de html y css">
+
 <title>Redes Sociales</title>
+
 <link rel="stylesheet" type="text/css" href="css/style8.css">
 <style>
 
