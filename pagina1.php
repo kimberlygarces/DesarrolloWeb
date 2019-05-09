@@ -52,20 +52,23 @@ ul {
     </div>
   </header>
 
-<nav>
-  <div>
-    <ul>
-      <li class="nav"><a href="index.php">PRINCIPAL</a></li>
-      <li class="nav"><a href="pagina1.php">PAGINA 1</a></li>
-      <li class="nav"><a href="pagina2.php">PAGINA 2</a></li>
-      <li class="nav"><a href="pagina3.php">PAGIANA 3</a></li>
+  <nav>
+    <div>
+      <ul>
+        <li class="P"><a href="index.php">PRINCIPAL</a></li>
+        <li class="nav"><a href="pagina1.php">PAGINA 1</a></li>
+        <li class="nav"><a href="pagina2.php">PAGINA 2</a></li>
+        <li class="nav"><a href="pagina3.php">PAGIANA 3</a></li>
         <li class="nav"><a href="pagina4.php">PAGIANA 4</a></li>
         <li class="nav"><a href="pagina5.php">PAGINA 5</a></li>
         <li class="nav"><a href="pagina6.php">PAGIANA 6</a></li>
-          <li class="nav"><a href="pagina7.php">PAGIANA 7</a></li>
-    </ul>
-</div>
-</nav>
+        <li class="nav"><a href="pagina7.php">PAGIANA 7</a></li>
+        <li class="nav"><a href="pagina8.php">PAGINA 8</a></li>
+        <li class="nav"><a href="pagina9.php">PAGIANA 9</a></li>
+        <li class="nav"><a href="pagina10.php">PAGIANA 10</a></li>
+      </ul>
+  </div>
+  </nav>
 
 
   <section>

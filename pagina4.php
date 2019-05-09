@@ -73,26 +73,36 @@ ul {
 
     <div id = "caja1">
       <div id ="caja1A">
-          <img src="img/1.jpg" class='imgRedonda'/>
-          <h1>TEXTO</h1>
-          <p>contenido</p>
+          <img src="img/17.jpg" class='imgRedonda'/>
+        <h1>Transformers</h1>
+          <p> El Lado Oscuro de la Luna </p>
       </div>
       <div id ="caja1B">
-        <img src="img/1.jpg" class='imgRedonda'/>
-        <h1>TEXTO</h1>
-        <p>contenido</p></div>
+        <img src="img/18.jpeg" class='imgRedonda'/>
+          <h1>Los Minions</h1>
+        <p>divertidas criaturas amarillas</p></div>
       <div id ="caja1C">
-        <img src="img/1.jpg" class='imgRedonda'/>
-        <h1>TEXTO</h1>
-        <p>contenido</p>
+        <img src="img/19.jpeg" class='imgRedonda'/>
+        <h1> Los Increíbles 2</h1>
+        <p>familia de superhéroes</p>
       </div>
 
     </div>
 
+<div id="contenedor">
   <section>
   <div id="derecha">
 
-<h1>hola</h1>
+<h1 align="center">Peliculas mas taquilleras</h1>
+<p><i>Ganar más o menos dinero en la taquilla no
+  significa que sea mejor o peor película pero sí,
+  es un poderoso indicativo de que estamos ante un
+  titán de hacer dinero. Películas para las grandes
+  masas internacionales, ha habido siempre a lo largo
+   de la historia del cine, pero solo 20, han sido las
+   películas que han arrasado en la taquilla y que han
+   llevado a multitud de aficionados a las salas de cine
+   una y otra vez</i></p>
   </div>
   </section>
 
@@ -100,37 +110,56 @@ ul {
     <div id="izquierda">
         <section>
       <div id ="caja2A">
-        <h1>hola</h1>
+        <h1>Transformers</h1>
+        <p>    Año: 2011</p>
+  <p>  Presupuesto: 195.000.000 $</p>
+    <p>Recaudación: 1.123.746.996 $</p>
             </div>
             <div id ="caja2B">
-              <h1>hola</h1>
+              <h1> Los Increíbles 2</h1>
+              <p>Año: 2018</p>
+              <p>Presupuesto: 200.000.000 $</p>
+              <p>Recaudación: 1.242.785.241 $</p>
               </div>
                 </section>
 
       <section>
         <div id ="caja2A">
-          <h1>hola</h1>
+          <h1>Capitán América</h1>
+          <p>Año: 2016</p>
+            <p>Presupuesto: 250.000.000 $</p>
+              <p>Recaudación: 1.153.984.897 $</p>
         </div>
         <div id ="caja2B">
-          <h1>hola</h1>
+          <h1>Los Minions</h1>
+          <p>Año: 2015</p>
+          <p>Presupuesto: 74.000.000 $</p>
+          <p>Recaudación: 1.159.398.397</p>
         </div>
           </section>
 
           <section>
             <div id ="caja2A">
-              <h1>hola</h1>
+              <h1>Iron Man 3</h1>
+              <p>Año: 2013</p>
+              <p>Presupuesto: 200.000.000</p>
+              <p>Recaudación: 1.215.439.994 $</p>
             </div>
             <div id ="caja2B">
-              <h1>hola</h1>
+              <h1>Fast & Furious 8</h1>
+              <p>Año: 2017</p>
+                <p>Presupuesto: 250.000.000 $</p>
+                  <p>Recaudación: 1.236.005.118 $</p>
             </div>
               </section>
           </div>
 
-
+</div>
 
 
 <footer>
-  <div id ="pie"><h1>kim</h1>
+  <div id ="pie">
+  <p>Peliculas mas taquilleras en los ultimos años</p>
 
 </footer>
 </body>

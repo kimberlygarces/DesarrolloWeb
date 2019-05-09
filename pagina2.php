@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="HTML Y CSS" content="Desarrollo web algo de html y css">
-<title>Desarrollo web</title>
+<title>Animales salvajes</title>
 <link rel="stylesheet" type="text/css" href="css/style2.css">
 <style>
 
@@ -73,15 +73,31 @@ ul {
 
     <div id = "caja1">
     <h1 align="center">ANIMALES SALVAJES</h1>
+    <p><i>Los animales salvajes son aquellos seres vivos dentro del grupo de animales que viven en libertad, bien sobre
+      la superficie terrestre, bien en el agua, o bien en el aire. Se trata de especies que no han sido domesticadas y
+     que viven fuera del alcance humano. Aunque los animales salvajes pueden ser atrapados, cazados o pescados, esto
+    no implica que se vuelvan animales domésticos. Además, viven en una zona de libertad relativa, puesto que ésta se
+       suele limitar a un territorio determinado (ya sea una selva o un bosque). Si algún animal salvaje se desplaza a
+       una ciudad o un lugar habitado por humanos lo más normal sería que éste fuera capturado por las autoridades y
+        llevado a su hábitat natural.</i><p>
+
+          <p><i>Los animales salvajes no necesitan al hombre para sobrevivir, no requieren sus cuidados ni sus alimentos,
+            mientras que los domésticos sí. Los salvajes no interactúan con las personas sino que crecen libres, aprendiendo
+            a cazar y a vivir, mientras que los domésticos si dependen de los seres humanos, han sido domesticados con los
+             humanos y pueden vivir con éstos pues forman parte de una familia o estructura social y tienen uno o varios amos
+             que se encargan de educarles y cuidarles. Si un animal salvaje es criado en cautividad, después será realmente
+              difícil que pueda sobrevivir en su hábitat natural, y al mismo tiempo nunca se comportará como un animal doméstico
+               puesto que su esencia es salvaje. Son animales domésticos de ciudad, por ejemplo, perros, gatos, canarios, peces o
+               hámster y de granja los caballos, las ovejas o las vacas.<i><p>
     </div>
 
 
 
     <div id="caja2">
-    <div id ="caja3">  <img align="left" src="img/1.jpg"  width="200" height="150"/></div>
-    <div id ="caja4">  <img align="left" src="img/2.jpg"  width="200" height="150"/></div>
-    <div id ="caja5">  <img align="left" src="img/2.jpeg"  width="200" height="150"/></div>
-    <div id ="caja6">  <img align="left" src="img/3.jpg"  width="200" height="150"/></div>
+    <div id ="caja2A">  <img align="left" src="img/12.jpeg"  width="250" height="200"/></div>
+    <div id ="caja2A">  <img align="left" src="img/13.jpeg"  width="250" height="200"/></div>
+    <div id ="caja2A">  <img align="left" src="img/14.jpeg"  width="250" height="200"/></div>
+    <div id ="caja2A">  <img align="left" src="img/15.jpeg"  width="250" height="200"/></div>
   </div>
 
 
@@ -90,14 +106,16 @@ ul {
 
 
       <div class="center">
-      <p>las mascotas</p>
+        <img class="imgcenter"align="center" src="img/16.jpg"  width="200" height="200"/>
+        <p><i>Protege los animales</i></p>
       </div>
 
 
 
 <footer>
     <div id ="pie">
-<h3>KIMBERLY</h3>
+<p>Kimberly Garces</p>
+<p>Laura de la Ossa</p>
    </div>
 </footer>
 </body>

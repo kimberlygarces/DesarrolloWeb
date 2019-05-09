@@ -55,11 +55,18 @@ text-align: center;
 
 
 #izquierda{
-    height:100%;
+
     background-color:#68BDF5;
     float:left;
     overflow: hidden;
     width:70%;
+
+}
+
+#contenedor{
+  border-style: solid double;
+    overflow: hidden;
+
 
 }
 
@@ -88,7 +95,7 @@ text-align: center;
 
 #derecha{
 
-  height:100%;
+  
   background-color:#2e86c1;
   float: right;
   overflow: hidden;

@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="HTML Y CSS" content="Desarrollo web algo de html y css">
-<title>Animales Salvajes</title>
+<title>Registro de estudiantes</title>
 <link rel="stylesheet" type="text/css" href="css/style3.css">
 <style>
 
@@ -72,39 +72,51 @@ ul {
 
 
     <div id = "caja1">
-    <h1 align="center">ANIMALES SALVAJES</h1>
+    <h1 align="center">REGISTRO</h1>
     </div>
 
   <section>
   <div id="derecha">
+  <h1>Colegio Santa Maria</h1>
 
     <div id ="caja1A">
-        <h1>TEXTO</h1>
-        <p>contenido</p>
+
+        <p>Buscamos que nuestros estudiantes se eduquen de una manera integral, ayuden a crecimiento de la sociedad y además encuentren su vocación y al finalizar sus estudios tengan claro lo que quieren hacer para su vida.</p>
     </div>
   </div>
   </section>
   <aside>
+
     <div id="izquierda">
-      <h1>FORMULARIO</h1>
-
-
-<table>
+      <h1 align="center">INFORMACIÓN DEL ESTUDIATES</h1>
+<table align="center">
     <form>
   <tr>
-    <td>Etiqueta 1</td>
+    <td>Nombre completo</td>
     <td><input type="text" name="etiqueta1"></td>
 
   </tr>
   <tr>
-    <td>Etiqueta 2</td>
+    <td>Apellidos</td>
     <td><input type="text" name="etiqueta2"></td>
   </tr>
-  <tr>
-    <td>Etiqueta 3</td>
-    <td><input type="text" name="etiqueta3"></td>
-  </tr>
-<td>  <button type="submit">REDISTRAR</button></td>
+  <td>Edad</td>
+  <td><input type="text" name="etiqueta3"></td>
+</tr>
+<td>Sexo</td>
+<td>
+  <select name="sexo" size="1" >
+  <option>femenino</option>
+  <option>masculino</option>
+  </select>
+</tr>
+<td>Grado cursado</td>
+<td>
+  <input type="number" min="0" max="11" step="1" value="6" />
+</td>
+</tr>
+<td>
+<button align="center" type="submit">REGISTRAR</button></td>
   </form>
 
 </table>
@@ -115,7 +127,7 @@ ul {
 
 <footer>
   <div id ="pie"></h1>
-FOOTER
+<p><i>Crecimiento integral de niños y adolecentes</i></p>
 </footer>
 </body>
 </html>

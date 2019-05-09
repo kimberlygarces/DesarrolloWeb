@@ -1,25 +1,3 @@
-#caja1{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color:#68BDF5;
-  border-style: solid double;
-
-
-}
-
-#caja1A{
-float: left;
-padding: 5px;
-color: #fff;
-width: 330px;
-margin: 50px;
-background: #039;
-  text-align: center;
-}
-
-
 #cabecera{
   background-color:#68BDF5;
   height:auto;
@@ -49,6 +27,29 @@ background: #039;
 
 
 }
+
+#caja1{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#68BDF5;
+  border-style: solid double;
+
+
+}
+
+#caja1A{
+float: left;
+padding: 10px;
+color: #fff;
+width: 400px;
+margin: 50px;
+background: #039;
+  text-align: center;
+
+}
+
 
 
 #pie{

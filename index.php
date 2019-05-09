@@ -3,6 +3,7 @@
 <html>
 <head>
 <meta charset="utf-8"/>
+<meta name="HTML Y CSS" content="Desarrollo web algo de html y css">
 <title>Desarrollo Web</title>
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <style>
@@ -111,7 +112,7 @@ ul {
 <footer>
   <div id ="pie">
 
-     
+
   </div>
 
 </footer>
