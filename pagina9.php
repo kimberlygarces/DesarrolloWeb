@@ -13,22 +13,44 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
+  padding-top: 10px;
+  padding-bottom: 10px;
+    background-color: #68BDF5;
+    border-radius:30px;
+}
+
+.na a {
+  width:40px;
+  height:30px;
+  border-radius:100px;
+  float: left;
+  text-align: center;
+    padding: 10px 10px;
+    background-color: #0b3666;
+    display: block;
+    color: white;
+    margin-left: 10px;
 
 }
 
-.nav a {
+.P a {
   display: block;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-
+  float: right;
+  background-color: #0b3666;
+  border-radius:150px;
 }
 
-.nav a:hover{
-  background-color:  #2e86c1;
+.n a:hover{
+  background-color: #68BDF5;
 }
 
-
+.P a:hover{
+  background-color: #68BDF5;
+}
 
 </style>
 
@@ -48,17 +70,16 @@ ul {
           <nav>
             <div>
               <ul>
-                <li class="nav"><a href="index.php">PRINCIPAL</a></li>
-                <li class="nav"><a href="pagina1.php">PAGINA 1</a></li>
-                <li class="nav"><a href="pagina2.php">PAGINA 2</a></li>
-                <li class="nav"><a href="pagina3.php">PAGIANA 3</a></li>
-                <li class="nav"><a href="pagina4.php">PAGIANA 4</a></li>
-                <li class="nav"><a href="pagina5.php">PAGINA 5</a></li>
-                <li class="nav"><a href="pagina6.php">PAGIANA 6</a></li>
-                <li class="nav"><a href="pagina7.php">PAGIANA 7</a></li>
-                <li class="nav"><a href="pagina8.php">PAGINA 8</a></li>
-                <li class="nav"><a href="pagina9.php">PAGIANA 9</a></li>
-                <li class="nav"><a href="pagina10.php">PAGIANA 10</a></li>
+                <li class="na"><a href="pagina1.php">1</a></li>
+                <li class="na"><a href="pagina2.php">2</a></li>
+                <li class="na"><a href="pagina3.php">3</a></li>
+                <li class="na"><a href="pagina4.php">4</a></li>
+                <li class="na"><a href="pagina5.php">5</a></li>
+                <li class="na"><a href="pagina6.php">6</a></li>
+                <li class="na"><a href="pagina7.php">7</a></li>
+                <li class="na"><a href="pagina8.php">8</a></li>
+                <li class="na"><a href="pagina9.php">9</a></li>
+                <li class="na"><a href="pagina10.php">10</a></li>
               </ul>
           </div>
           </nav>

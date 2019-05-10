@@ -42,7 +42,6 @@ ul {
           <nav>
             <div>
               <ul>
-                <li class="nav"><a href="index.php">PRINCIPAL</a></li>
                 <li class="nav"><a href="pagina1.php">PAGINA 1</a></li>
                 <li class="nav"><a href="pagina2.php">PAGINA 2</a></li>
                 <li class="nav"><a href="pagina3.php">PAGIANA 3</a></li>
@@ -50,9 +49,11 @@ ul {
                 <li class="nav"><a href="pagina5.php">PAGINA 5</a></li>
                 <li class="nav"><a href="pagina6.php">PAGIANA 6</a></li>
                 <li class="nav"><a href="pagina7.php">PAGIANA 7</a></li>
-                <li class="nav"><a href="pagina5.php">PAGINA 8</a></li>
-                <li class="nav"><a href="pagina6.php">PAGIANA 9</a></li>
-                <li class="nav"><a href="pagina7.php">PAGIANA 10</a></li>
+                <li class="nav"><a href="pagina8.php">PAGINA 8</a></li>
+                <li class="nav"><a href="pagina9.php">PAGIANA 9</a></li>
+                <li class="nav"><a href="pagina9.php">PAGIANA 10</a></li>
+                <li class="nav"><a href="index.php">PRINCIPAL</a></li>
+
               </ul>
           </div>
           </nav>
@@ -64,7 +65,7 @@ ul {
               <div id="derecha">
 
                 <div id ="caja1">
-                  <h1 align="center">innovaciones tecnológicas más sorprendentes</h1>
+                  <h1 align="center">Innovaciones tecnológicas más sorprendentes</h1>
                   <p><i>Las innovaciones tecnológicas son inventos o creaciones que presentan una novedad en la forma de suplir las necesidades de la sociedad actual que sin el avance de la tecnología no existirían.</i></p>
 
                   <p><img src="img/4.png" align="left" width="450" height="450">Gracias al avance extraordinario de la ciencia en los últimos años, la tecnología creada e implementada con la ayuda de ingenieros, ha hecho que las innovaciones del siglo XXI
