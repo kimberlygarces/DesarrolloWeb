@@ -59,7 +59,7 @@ ul {
 <body>
   <div id ="cabecera">
     <h1>
-    <img src="img/UNIVERSIDAD.png" align="right" width="250" height="90">Desarrollo web</h1>
+    <img src="img/UNIVERSIDAD.png" align="right" width="250" height="70">Desarrollo web</h1>
 
   </div>
 </header>
@@ -108,34 +108,84 @@ ul {
                     </td>
                   </tr>
                   </table>
-          
+
                   <button type="button">Iniciar</button>
                 </from>
         </div>
       </div>
     </div>
-    <div id="contenedor">
-      <div id ="caja1A">
-        <img src="img/1.jpg" class='imgRedonda'/>
-        <h1>TEXTO</h1>
-        <p>contenido</p>
-      </div>
-      <div id ="caja1A">
-        <img src="img/1.jpg" class='imgRedonda'/>
-        <h1>TEXTO</h1>
-        <p>contenido</p>
-      </div>
-      <div id ="caja1A">
-        <img src="img/1.jpg" class='imgRedonda'/>
-        <h1>TEXTO</h1>
-        <p>contenido</p>
-      </div>
-    </div>
 
+    <div id="contenedor">
+
+      <div id ="caja1A">
+        <img src="img/4.png" class='imgRedonda'/>
+        <h1>PAGINA 1</h1>
+        <a>Innovaciones tecnologicas</a>
+      </div>
+
+      <div id ="caja1A">
+        <img src="img/1.jpg" class='imgRedonda'/>
+        <h1>PAGINA 2</h1>
+        <p>Animales domesticos</p>
+      </div>
+
+      <div id ="caja1A">
+        <img src="img/13.jpeg" class='imgRedonda'/>
+        <h1>PAGINA 3</h1>
+        <p>Animales salvajes</p>
+      </div>
+
+
+
+      <div id ="caja1A">
+        <img src="img/18.jpeg" class='imgRedonda'/>
+        <h1>PAGINA 4</h1>
+        <p>Peliculas</p>
+      </div>
+
+      <div id ="caja1A">
+        <img src="img/6.png" class='imgRedonda'/>
+        <h1>PAGINA 5</h1>
+        <p>Ingenieria de sistemas</p>
+      </div>
+
+      <div id ="caja1A">
+        <img src="img/7.png" class='imgRedonda'/>
+        <h1>PAGINA 6</h1>
+        <p>Programación</p>
+      </div>
+
+      <div id ="caja1A">
+        <img src="img/9.png" class='imgRedonda'/>
+        <h1>PAGINA 7</h1>
+        <p>HTML</p>
+      </div>
+
+      <div id ="caja1A">
+        <img src="img/FACEBOOK.png" class='imgRedonda'/>
+        <h1>PAGINA 8</h1>
+        <p>Redes sociales</p>
+      </div>
+
+      <div id ="caja1A">
+        <img src="img/9.png" class='imgRedonda'/>
+        <h1>PAGINA 9</h1>
+        <p>principal</p>
+      </div>
+
+
+
+      <div id ="caja1A">
+        <img src="img/1.jpg" class='imgRedonda'/>
+        <h1>PAGINA 10</h1>
+        <p>Registro</p>
+    </div>
+</div>
 
 <footer>
 <div ="pie">
-  <h1>Kim</kim>
+  <br>
+  <a>taller de desarrollo web, se evalua HTML, CSS y posicionamiento</a>
   </div>
   </footer>
 </body>

@@ -1,7 +1,7 @@
 
 .imgRedonda {
-    width:200px;
-    height:200px;
+    width:100px;
+    height:100px;
     border-radius:150px;
 
 }
@@ -17,7 +17,9 @@
 
   background-color:#68BDF5;
   height:auto;
-  padding: 30px;
+  padding: 50px;
+  width: auto;
+  overflow: hidden;
 
 }
 #contenedor{
@@ -73,6 +75,7 @@ th,td {
   overflow: hidden;
   width:9%;
   text-align: center;
+  margin-bottom:20px;
 
 
 
@@ -86,6 +89,7 @@ width: 330px;
 margin: 50px;
 background: #039;
   text-align: center;
+  border-radius:100px;
 }
 
 
