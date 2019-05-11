@@ -118,57 +118,62 @@ ul {
     <div id="contenedor">
 
       <div id ="caja1A">
-        <img src="img/4.png" class='imgRedonda'/>
+        <a href="index.php"><img src="img/4.png" class='imgRedonda'/></a>
         <h1>PAGINA 1</h1>
-        <a>Innovaciones tecnologicas</a>
+        <p>Innovaciones tecnologicas</p>
       </div>
 
       <div id ="caja1A">
-        <img src="img/1.jpg" class='imgRedonda'/>
-        <h1>PAGINA 2</h1>
+          <a href="pagina1.php"><img src="img/1.jpg" class='imgRedonda'/></a>
+        <h1>PAGINA 1</h1>
         <p>Animales domesticos</p>
       </div>
 
       <div id ="caja1A">
-        <img src="img/13.jpeg" class='imgRedonda'/>
-        <h1>PAGINA 3</h1>
+          <a href="pagina2.php"><img src="img/13.jpeg" class='imgRedonda'/></a>
+        <h1>PAGINA 2</h1>
         <p>Animales salvajes</p>
       </div>
 
+      <div id ="caja1A">
+          <a href="pagina3.php"><img src="img/11.jpg" class='imgRedonda'/></a>
+        <h1>PAGINA 3</h1>
+        <p>Formulario</p>
+      </div>
 
 
       <div id ="caja1A">
-        <img src="img/18.jpeg" class='imgRedonda'/>
+          <a href="pagina4.php"><img src="img/18.jpeg" class='imgRedonda'/></a>
         <h1>PAGINA 4</h1>
         <p>Peliculas</p>
       </div>
 
       <div id ="caja1A">
-        <img src="img/6.png" class='imgRedonda'/>
+          <a href="pagina5.php"><img src="img/6.png" class='imgRedonda'/></a>
         <h1>PAGINA 5</h1>
         <p>Ingenieria de sistemas</p>
       </div>
 
       <div id ="caja1A">
-        <img src="img/7.png" class='imgRedonda'/>
+          <a href="pagina6.php"><img src="img/7.png" class='imgRedonda'/></a>
         <h1>PAGINA 6</h1>
         <p>Programación</p>
       </div>
 
       <div id ="caja1A">
-        <img src="img/9.png" class='imgRedonda'/>
+          <a href="pagina7.php"><img src="img/9.png" class='imgRedonda'/></a>
         <h1>PAGINA 7</h1>
         <p>HTML</p>
       </div>
 
       <div id ="caja1A">
-        <img src="img/FACEBOOK.png" class='imgRedonda'/>
+          <a href="pagina8.php"><img src="img/FACEBOOK.png" class='imgRedonda'/></a>
         <h1>PAGINA 8</h1>
         <p>Redes sociales</p>
       </div>
 
       <div id ="caja1A">
-        <img src="img/9.png" class='imgRedonda'/>
+          <a href="pagina9.php"><img src="img/9.png" class='imgRedonda'/></a>
         <h1>PAGINA 9</h1>
         <p>principal</p>
       </div>
@@ -176,7 +181,7 @@ ul {
 
 
       <div id ="caja1A">
-        <img src="img/1.jpg" class='imgRedonda'/>
+          <a href="pagina10.php"><img src="img/1.jpg" class='imgRedonda'/></a>
         <h1>PAGINA 10</h1>
         <p>Registro</p>
     </div>
