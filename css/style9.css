@@ -20,27 +20,30 @@
   padding: 30px;
 
 }
+#contenedor{
+  border-style: solid double;
+    overflow: hidden;
 
+}
 
 #izquierda{
-    height:100%;
+
     float:left;
     overflow: hidden;
     width:90%;
     text-align: center;
-    padding-left:5px;
+
 
 }
 
 #caja2A{
-float: left;
-padding: 5px;
-width: 630px;
-margin: 50px;
+padding: 50px;
+width: 700px;
+margin: auto;
 background: #039;
-  text-align: center;
-  background-color:#68BDF5;
-  border-radius: 500px 500px 100px 100px;
+text-align: center;
+background-color:#68BDF5;
+border-radius: 300px 100px 300px 100px;
 
 }
 

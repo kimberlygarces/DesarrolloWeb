@@ -4,7 +4,7 @@
 <meta charset="utf-8"/>
 <meta name="HTML Y CSS" content="Desarrollo web algo de html y css">
 
-<title>Tablas</title>
+<title>Principal</title>
 <link rel="stylesheet" type="text/css" href="css/style9.css">
 <style>
 
@@ -20,8 +20,8 @@ ul {
 }
 
 .na a {
-  width:40px;
-  height:30px;
+  width:60px;
+  height:50px;
   border-radius:100px;
   float: left;
   text-align: center;
@@ -44,7 +44,7 @@ ul {
   border-radius:150px;
 }
 
-.n a:hover{
+.na a:hover{
   background-color: #68BDF5;
 }
 
@@ -57,18 +57,19 @@ ul {
 </head>
 
 <body>
-  <header>
-    <div id ="cabecera" align="center"><h1>Desarrollo web</h1>
-      <a>Taller HTML y CSS<a>
-    </div>
-  </header>
+  <div id ="cabecera">
+    <h1>
+    <img src="img/UNIVERSIDAD.png" align="right" width="250" height="90">Desarrollo web</h1>
+
+  </div>
+</header>
 
 
 <div id="contenedor">
+
     <div id="derecha">
         <section>
           <nav>
-            <div>
               <ul>
                 <li class="na"><a href="pagina1.php">1</a></li>
                 <li class="na"><a href="pagina2.php">2</a></li>
@@ -81,66 +82,56 @@ ul {
                 <li class="na"><a href="pagina9.php">9</a></li>
                 <li class="na"><a href="pagina10.php">10</a></li>
               </ul>
-          </div>
           </nav>
           </section>
           </div>
 
 
     <div id="izquierda">
+          <h1>HTML Y CSS</h1>
+          <p><i>Taller de Desarrollo Web</i></p>
+          <div id ="caja2A">
 
-        <section>
-
-      <div id ="caja2A">
-
-        <h1>REGISTRO</h1>
-        <img src="img/3.jpg" class='Usuario'/>
-        <br>
-
-        <form>
-        <table class="d">
-      <tr>
-        <td> Nombre</td>
-        <td>
-          <input type="text" placeholder="Usuario">
-        </td>
-      </tr>
-      <td> Nombre</td>
-      <td>
-        <input type="text" placeholder="Usuario">
-      </td>
-    </tr>
-    <td> Nombre</td>
-    <td>
-      <input type="color" />
-    </td>
-  </tr>
-    </table>
-    <br>
-  <button type="button">Iniciar sesion</button>
-</from>
-  </div>
-</section>
-
-  </div>
-
-
+              <img src="img/1.gif" class='Usuario'/>
+              <br>
+              <form>
+                <table class="d">
+                  <tr>
+                    <td>KIMBERLY GARCES</td>
+                    <td>
+                      <input type="text" placeholder="Kimberly">
+                    </td>
+                  </tr>
+                    <td>LAURA DE LA OSSA</td>
+                    <td>
+                      <input type="text" placeholder="Laura">
+                    </td>
+                  </tr>
+                  </table>
+          
+                  <button type="button">Iniciar</button>
+                </from>
+        </div>
+      </div>
+    </div>
+    <div id="contenedor">
       <div id ="caja1A">
-      <img src="img/1.jpg" class='imgRedonda'/>
-      <h1>TEXTO</h1>
-      <p>contenido</p>
-  </div>
-  <div id ="caja1A">
-    <img src="img/1.jpg" class='imgRedonda'/>
-    <h1>TEXTO</h1>
-    <p>contenido</p>
-  </div>
-  <div id ="caja1A">
-    <img src="img/1.jpg" class='imgRedonda'/>
-    <h1>TEXTO</h1>
-    <p>contenido</p>
-  </div>
-</aside>
+        <img src="img/1.jpg" class='imgRedonda'/>
+        <h1>TEXTO</h1>
+        <p>contenido</p>
+      </div>
+      <div id ="caja1A">
+        <img src="img/1.jpg" class='imgRedonda'/>
+        <h1>TEXTO</h1>
+        <p>contenido</p>
+      </div>
+      <div id ="caja1A">
+        <img src="img/1.jpg" class='imgRedonda'/>
+        <h1>TEXTO</h1>
+        <p>contenido</p>
+      </div>
+    </div>
+
 
 <footer>
 <div ="pie">

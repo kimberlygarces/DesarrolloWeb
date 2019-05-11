@@ -63,7 +63,7 @@ ul {
     </div>
   </header>
 
-  
+
 
 <nav>
   <div>
@@ -86,7 +86,7 @@ ul {
 <h1 align="center">REGISTRO CANINO</h1>
 
 <div id="contenedor">
-  <img src="img/3.jpg" class='Usuario'/>
+  <img src="img/1.jpg" class='Usuario'/>
 
 
         <form>
